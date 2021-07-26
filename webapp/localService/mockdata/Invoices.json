@@ -1,5 +1,4 @@
-{
-    "Invoices": [
+[
       {
         "ProductName": "Pineapple",
         "Quantity": 21,
@@ -39,6 +38,14 @@
         "ShipperName": "Fun Inc.",
         "ShippedDate": "2015-01-27T00:00:00",
         "Status": "A"
+      },
+      {
+        "ProductName": "Big Mac",
+        "Quantity": 1,
+        "ExtendedPrice": 2.71212,
+        "ShipperName": "McDonald's Inc.",
+        "ShippedDate": "2015-01-27T00:00:00",
+        "Status": "A"
       }
     ]
-  }
+  
